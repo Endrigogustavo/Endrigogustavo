@@ -1,7 +1,4 @@
-<h1 align="center">Opa Endrigo e meu nome</h1>
-<h3 align="center">Iniciante na área de programação</h3>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+:%29)](https://git.io/typing-svg)
 <div>
 <a href="https://github.com/Endrigogustavo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrigogustavo&layout=compact&langs_count=7&theme=dracula"/>
