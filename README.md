@@ -4,14 +4,17 @@
 </br>
 </br>
 <center>
+<p align="center">
 <img align="right" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrigogustavo&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 </br>
 </br>
 </br>
 </br>
+<p align="center">
 <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Endrigogustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </center>
-
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Endrigogustavo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
