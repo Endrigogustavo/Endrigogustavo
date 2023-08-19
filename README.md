@@ -3,12 +3,14 @@
 <a href="https://github.com/Endrigogustavo">
 </br>
 </br>
+<center>
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrigogustavo&layout=compact&langs_count=7&theme=dracula"/>
-  
+</br>
+</br>
+</br>
+</br>
 <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Endrigogustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Endrigogustavo&theme=gotham&title_color=B91372)
+</center>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Endrigogustavo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
