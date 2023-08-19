@@ -4,7 +4,7 @@
 </br>
 </br>
 <center>
-<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrigogustavo&layout=compact&langs_count=7&theme=dracula"/>
+<img align="right" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrigogustavo&layout=compact&langs_count=7&theme=dracula"/>
 </br>
 </br>
 </br>
