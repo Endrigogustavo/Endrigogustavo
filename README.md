@@ -10,11 +10,7 @@
 </br>
 </br>
 </br>
-</br>
-<p align="center">
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Endrigogustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</center>
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Endrigogustavo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
